@@ -4,10 +4,11 @@
     padding: 0;
 }
 body{
-    background-image: url('https://media4.giphy.com/media/l5JbspfwZ0yjHjlJ0K/giphy.gif?cid=ecf05e47p2m5kfyc5vz5v13ledb41s7qzehbjboakgtyoudv&rid=giphy.gif&ct=g');
+	background-image: url('https://media4.giphy.com/media/l5JbspfwZ0yjHjlJ0K/giphy.gif?cid=ecf05e47p2m5kfyc5vz5v13ledb41s7qzehbjboakgtyoudv&rid=giphy.gif&ct=g') ;
     min-height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
+    object-fit:cover;
 }
 .title-container{
     padding-top: 50px;
